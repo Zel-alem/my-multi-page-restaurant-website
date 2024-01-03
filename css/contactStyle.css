@@ -64,4 +64,10 @@ body {
   align-items: center;
 }
 
+ul {
+  list-style-type: none;
+  align-items: center;
+  color: black;
+}
+
 
